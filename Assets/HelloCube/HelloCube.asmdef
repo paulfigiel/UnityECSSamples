@@ -8,15 +8,16 @@
         "Unity.Mathematics",
         "Unity.Rendering.Hybrid",
         "Unity.Transforms",
-        "Unity.Scenes.Hybrid"
+        "Unity.Scenes.Hybrid",
+        "Unity.Physics"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }
